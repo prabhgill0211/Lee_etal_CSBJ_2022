@@ -5,6 +5,15 @@
 - Diana Y. Lee, Luque Lab, SDSU / dlee@sdsu.edu
 - 2021-09-24, revised 2021-11-12
 
+# Installation
+
+Tested on python 3.11
+
+```sh
+conda install -c biopython pandas matplotlib scikit-learn scipy numpy seaborn
+pip install ipynb openpyxl==3.1.0
+```
+
 
 # FOLDERS & FILES
 
